@@ -5,8 +5,8 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Zj0zBTOKzKUXNzgFZZ/giphy.gif" width="100%">
-  <img src="https://media.giphy.com/media/VHA03WJhhKANHX7Tp8/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/V0JWnuAjQpz7NUZYMK/giphy.gif" width="100%">
+  <img src="https://media.giphy.com/media/I1l53VIJ6oQCRN96wh/giphy.gif" width="100%">
 </div>
 
 ---
